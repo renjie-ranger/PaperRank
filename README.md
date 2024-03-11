@@ -27,6 +27,7 @@ Ensure you have the required packages installed by running:
 
 ```bash
 pip install requests beautifulsoup4
+```
 
 ## Usage
 
@@ -36,6 +37,7 @@ Example:
 
 ```bash
 python paper_rank.py -f AI
+```
 
 This command fetches and ranks papers from the Artificial Intelligence (AI) field.
 
@@ -43,6 +45,7 @@ or
 
 ```bash
 python paper_rank.py
+```
 
 This command fetches and ranks papers from the Computation and Language (CL) field.
 
