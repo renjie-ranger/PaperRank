@@ -2,6 +2,10 @@
 
 This Python script fetches recent papers from specific fields on Arxiv and ranks them based on the number of clicks by researchers, utilizing data from https://papers.cool/. It aims to help users quickly find popular and potentially impactful research papers in their field of interest.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1hNXtaR3V-VgmG59QJMW7YPaAYgwtmyuH?usp=sharing](https://colab.research.google.com/drive/1QnxMmJtkoOBk4FPJXKi8Z-u8ldzOrtwr?usp=sharing))
+
+**I strongly recommend you to use `colab` with two click to know the best papers in recent days!**
+
 ## Features
 
 - Fetches recent publication dates from Arxiv.
